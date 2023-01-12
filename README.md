@@ -1,2 +1,2 @@
-# HTML-CSS
-Learning
+# Learning css
+learning about various subjects
